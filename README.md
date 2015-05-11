@@ -8,7 +8,7 @@ Installez ensuite le plugin depuis l'interface administrateur d'OsClass (votreur
 
 Maintenant il ne reste plus qu'à ajouter la ligne suivante là où vous souhaitez que la carte apparaisse :
 
-...
+```php
 <?php selector_map(); ?>
-...
+```
 
