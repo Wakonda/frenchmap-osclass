@@ -1,0 +1,2 @@
+# frenchmap-osclass
+Test
